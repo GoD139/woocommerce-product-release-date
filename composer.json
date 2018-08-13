@@ -1,0 +1,8 @@
+{
+    "name": "fanboy/product_released",
+    "description": "Product release date input",
+    "type": "wordpress-plugin",
+    "require": {
+        "php": "^5.3.3 || ^7.0"
+    }
+}
